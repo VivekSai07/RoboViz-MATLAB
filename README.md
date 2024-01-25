@@ -18,21 +18,21 @@ RoboViz is a MATLAB-based robotics visualization tool that empowers users to eff
 ## Sample Example
 - **2 DOF**
 <p align="center">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/2%20DOF.png" width="480" alt="2DOF">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/2%20DOF%20(workspace).png" width="480" alt="2DOF">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/2%20DOF.png" width="700" alt="2DOF">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/2%20DOF%20(workspace).png" width="700" alt="2DOF">
 </p>
 <!-- ![2 DOF](https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/2%20DOF.png) -->
 
 - **Cartesian Robot**
 <p align="center">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cartesian%20robot.png" width="480" alt="Cartesian Robot">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cartesian%20robot%20(workspace).png" width="480" alt="Cartesian Robot Workspace">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cartesian%20robot.png" width="700" alt="Cartesian Robot">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cartesian%20robot%20(workspace).png" width="700" alt="Cartesian Robot Workspace">
 </p>
 
 - **Cylindrical Robot**
 <p align="center">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cylindrical%20Robot.png" width="480" alt="Cylindrical Robot">
-  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cylindrical%20Robot%20(workspace).png" width="480" alt="Cylindrical Robot Workspace">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cylindrical%20Robot.png" width="700" alt="Cylindrical Robot">
+  <img src="https://github.com/VivekSai07/RoboViz-MATLAB/blob/main/Cylindrical%20Robot%20(workspace).png" width="700" alt="Cylindrical Robot Workspace">
 </p>
 
 ## Getting Started
